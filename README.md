@@ -2,12 +2,13 @@
 > Siber güvenlik araştırmalarında tarayıcıyı tam donanımlı bir laboratuvara dönüştüren; Bug Bounty avcıları ve bağımsız araştırmacılar için özel olarak küratörlüğü yapılmış, test edilmiş ve onaylanmış profesyonel eklentiler listesi.
 
 ## 📖 İçindekiler
-- [🛡️ Zafiyet Analizi](#-zafiyet-analizi)
-- [🔍 Keşif ve Bilgi Toplama](#-keşif-ve-bilgi-toplama)
-- [⚙️ Trafik Yönetimi](#-trafik-yönetimi)
-- [🧪 Yardımcı Araçlar ve Test](#-yardımcı-araçlar-ve-test)
-- [📑 Link ve Endpoint Keşfi](#-link-ve-endpoint-keşfi)
-- [⚡ Verimlilik ve Deneyim](#-verimlilik-ve-deneyim)
+- [🔍 Keşif ve Bilgi Toplama](https://github.com/althacksec/BugBounty_Eklentileri#-keşif-ve-bilgi-toplama)
+- [🛡️ Zafiyet Analizi](https://github.com/althacksec/BugBounty_Eklentileri#%EF%B8%8F-zafiyet-analizi)
+- [⚙️ Proxy ve Trafik Yönetimi](https://github.com/althacksec/BugBounty_Eklentileri#%EF%B8%8F-proxy-ve-trafik-y%C3%B6netimi)
+- [🧪 Yardımcı Araçlar ve Payloadlar](https://github.com/althacksec/BugBounty_Eklentileri#-yard%C4%B1mc%C4%B1-ara%C3%A7lar-ve-payloadlar)
+- [📑 Link ve Uç Nokta Keşfi](https://github.com/althacksec/BugBounty_Eklentileri#-link-ve-u%C3%A7-nokta-ke%C5%9Ffi)
+- [🔐 VPN](https://github.com/althacksec/BugBounty_Eklentileri#-vpn)
+- [⚡ Verimlilik ve Deneyim](https://github.com/althacksec/BugBounty_Eklentileri#-verimlilik-ve-deneyim)
 
 ---
 
@@ -51,10 +52,6 @@
 * [Link Gopher](https://sites.google.com/site/linkgopher/)
 * [Open Multiple Urls](https://addons.mozilla.org/en-US/firefox/addon/open-multiple-urls/)
 * [PrettyXML](https://addons.mozilla.org/tr/firefox/addon/pretty-xml/)
-
-### 📧 Test ve İş Akışı
-* [TempMail](https://temp-mail.org/)
-* [Postman Interceptor](https://addons.mozilla.org/en-US/firefox/addon/postman_interceptor/)
 
 ### 🔐 VPN
 * [Browserc VPN](https://addons.mozilla.org/en-US/firefox/addon/browsec/)
